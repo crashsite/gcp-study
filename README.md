@@ -3,13 +3,13 @@ Used to study for the GCP Architects exam
 
 
 
-(Certification Site)[cloud.google.com/certification]
+[Certification Site](http://cloud.google.com/certification)
 
-(GCP Code Lab)[codelab.developers.google.com]
+[GCP Code Lab](http://codelab.developers.google.com)
 
 ---
 
-#Certification Exam Guide
+# Certification Exam Guide
 
 ## Section 1: Designing and planning a cloud solution architecture
 
