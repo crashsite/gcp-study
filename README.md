@@ -5,7 +5,7 @@ Used to study for the GCP Architects exam
 
 [Certification Site](http://cloud.google.com/certification)
 
-[GCP Code Lab](http://codelab.developers.google.com)
+[GCP Code Lab](https://codelabs.developers.google.com/)
 
 ---
 
